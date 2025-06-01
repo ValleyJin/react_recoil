@@ -1,6 +1,5 @@
 # 관련 강의 
-
-https://youtu.be/Yv5tSNr4h2c?si=uHKyt5AFzZKEFwti
+[React Full Course (feat. Recoil)](https://youtu.be/Yv5tSNr4h2c?si=uHKyt5AFzZKEFwti)
 
 ### 개발환경
 

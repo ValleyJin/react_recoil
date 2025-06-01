@@ -12,11 +12,32 @@ dist
 dist-ssr
 *.local
 
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Build directories
+.temp/
+.cache/
+build/
+out/
+
+# Test coverage
+coverage/
+
+# Package manager specific
+.yarn/
+pnpm-lock.yaml
+
+# macOS
+.DS_Store
+
 # Editor directories and files
+.idea/
 .vscode/*
 !.vscode/extensions.json
-.idea
-.DS_Store
 *.suo
 *.ntvs*
 *.njsproj
